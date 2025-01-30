@@ -1,6 +1,6 @@
 # Minato 1866
 
-Here you will find information firmwares, manual and images of the Minato 1866.
+Here you will find information firmwares, manuals and images of the Minato 1866.
 
 There are at least two versions of the Minato 1866. They are not distinguishable from the outside. The main digital logic board seems to be exactly the same, but the analog boards have different numbers, BN-83007-BTD versus BN-83007-CTD. My own Minato 1866, let's call it a V16, has the -BTD version and has some patch wires. In the -CTD version, that same area of the PCB is slightly revised. So it seems that the -CTD version is a bugfix board.
 
@@ -12,4 +12,4 @@ The pictures in this github are all of the older version Minato 1886, which is m
 
 More info on the Minato 1866, including pictures of the newer version, can be found here: http://matthieu.benoit.free.fr/263.htm
 
-Take care that the Minato 1866**A** is an evolution of the Minato 1866, and is different enough that the firmwares cannot be interchanged between them.
+Take care that the Minato 1866<ins>**A**</ins> is an evolution of the Minato 1866, and is different enough that the firmwares cannot be interchanged between them.
