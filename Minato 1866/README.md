@@ -8,6 +8,8 @@ The reason for calling the -BTD version a V16, is that it came with a version V1
 
 There are two versions of the manual, one (the older one) seems to be stencilled and then bound together. The other (newer) is more professionally printed. The information inside is pretty much the same. But the makers of the newer manual forgot to update the page references, which still reference the page numbers of the older manual.
 
-More info on the Minato 1866 can be found here: http://matthieu.benoit.free.fr/263.htm
+The pictures in this github are all of the older version Minato 1886, which is my own programmer.
+
+More info on the Minato 1866, including pictures of the newer version, can be found here: http://matthieu.benoit.free.fr/263.htm
 
 Take care that the Minato 1866**A** is an evolution of the Minato 1866, and is different enough that the firmwares cannot be interchanged between them.
